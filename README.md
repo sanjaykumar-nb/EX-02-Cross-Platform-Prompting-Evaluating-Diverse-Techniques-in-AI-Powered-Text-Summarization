@@ -23,7 +23,6 @@ Summarize the following 500-word article on “The Basics of Blockchain Technolo
 Step 2 (Feedback):
 Please revise the summary to make it even simpler and include at least two real-world examples of blockchain applications.
 ## Original Text 
-```
 The Basics of Blockchain Technology
 
 Blockchain is a revolutionary digital technology designed to record, verify, and share information in a secure and transparent way. At its core, blockchain is a type of database, but it is very different from traditional databases managed by a central authority. Instead of storing information in a single location, blockchain distributes it across a network of computers, often called “nodes.” This decentralized design makes it extremely difficult for anyone to change or hack the information, ensuring trust and reliability.
@@ -42,11 +41,11 @@ Another important application is in voting systems. By recording votes on a bloc
 
 Overall, blockchain combines decentralization, security, and transparency to build trust in digital interactions. While it is still developing and faces challenges like energy use and regulation, its potential is enormous. For students, the key lesson is that blockchain is not just about Bitcoin—it is a powerful tool that could reshape how we share information and value in the digital age.
 
-```
-## Summarized text
-```
-Blockchain is a digital system that records and shares information securely without needing a central authority. Data is stored in “blocks” linked in a “chain,” making it nearly impossible to alter once added. Every transaction is verified by a network of computers through consensus, ensuring trust and transparency. While it became popular through Bitcoin, blockchain is now used in many fields. For example, supply chains use it to track products from farms to stores, ensuring authenticity, while healthcare uses it to securely store patient records for authorized access. By combining security, transparency, and efficiency, blockchain is reshaping how information and value are exchanged in today’s digital world.
-```
-## Result
 
+## Summarized text
+
+Blockchain is a digital system that records and shares information securely without needing a central authority. Data is stored in “blocks” linked in a “chain,” making it nearly impossible to alter once added. Every transaction is verified by a network of computers through consensus, ensuring trust and transparency. While it became popular through Bitcoin, blockchain is now used in many fields. For example, supply chains use it to track products from farms to stores, ensuring authenticity, while healthcare uses it to securely store patient records for authorized access. By combining security, transparency, and efficiency, blockchain is reshaping how information and value are exchanged in today’s digital world.
+
+## Result
+Thus the text summarization done successfully.
 
